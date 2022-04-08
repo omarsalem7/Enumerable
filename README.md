@@ -1,20 +1,21 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Decode Morse Message
+# Enumerables Implementation with Ruby
 
-> Here a solution for decoding morse message
+> In this repo, we implemented module which contain implmention for Enumerables `all? , any?, filter` functions and it is inside class my list which contain implmention for each function
 
 
 ## Built With
 
 - Ruby
+- with 💓
 
 # Get Started
 To get a local copy up and running follow these simple steps.
 
 ```bash
-$ git clone https://github.com/omarsalem7/decode-morse.git
-$ cd decode-morse
+$ git clone https://github.com/omarsalem7/Enumerable.git
+$ cd Enumerable 
 $ bundle install 
 ```
 
